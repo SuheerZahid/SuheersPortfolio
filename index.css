@@ -833,6 +833,18 @@
         color: #f8f8f8;
     }
 
+    .projects-info {
+        color: #333;
+        display: block;
+        text-align: center;
+        margin-top: 1rem;
+        font-size: 1.1rem;
+        font-weight: 400;
+        width: 90%;
+        margin: auto;
+        line-height: 1.6;
+    }
+
     .projects-image-01 img {
         width: 23rem;
         margin: auto;
@@ -851,7 +863,7 @@
     }
 
     .laptop-detail {
-        padding-left: 1.5rem;
+        padding-left: 1.2rem;
     }
 }
 
