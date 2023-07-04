@@ -910,4 +910,10 @@
         text-align: center;
         margin: auto;
     }
+
+    .projects-image-01 img {
+        width: 18rem;
+        margin: auto;
+    }
+
 }
