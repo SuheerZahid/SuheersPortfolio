@@ -412,7 +412,7 @@
 }
 
 .projects-info {
-    color: #333;
+    color: #666;
     display: block;
     text-align: center;
     margin-top: 1rem;
@@ -524,7 +524,7 @@
 .laptop-detail-info {
     margin-top: 1rem;
     font-size: 1.25rem;
-    color: #333;
+    color: #555;
     font-weight: 400;
     text-align: center;
 }
@@ -834,7 +834,7 @@
     }
 
     .projects-info {
-        color: #333;
+        color: #666;
         display: block;
         text-align: center;
         margin-top: 1rem;
