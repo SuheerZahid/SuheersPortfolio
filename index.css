@@ -425,6 +425,23 @@
     line-height: 1.6;
 }
 
+
+.project1-btn {
+    background-color: #0077B5;
+    color: #fff;
+    padding: .7rem 2rem;
+    margin-top: .5rem;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: .4s;
+}
+
+.project1-btn:hover {
+    background-color: #065d8c;
+    color: #fff;
+}
+
 /* 
 .card {
     position: relative;
